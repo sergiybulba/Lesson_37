@@ -23,7 +23,7 @@ namespace Lesson_38
     }
 
     //--------------------------------------------------------------------------------------------------------																																					
-    class MyArray : ICalc2                      // оголошення класу																																					
+    class MyArray : ICalc2                      // оголошення класу  																																					
     {
         private int[] _massyv;
         private int _size;
